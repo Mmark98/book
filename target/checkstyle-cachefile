@@ -1,7 +1,0 @@
-#Sun May 28 22:47:03 CEST 2023
-configuration*?=610C8CA3A9673AA22E58148D078B1653448E9BB9
-module-resource*?\:checkstyle-xpath-suppressions.xml=B925E2EEDDD3ACB654D82EDE849B11164D4B2958
-module-resource*?\:checkstyle-suppressions.xml=C7E90E2758B2CE782C5D7F57EF94DD8E5E7FAC81
-D\:\\saj\u00E1t\\Ny\u00EDregyh\u00E1zi\ egytem\\BSC\ NYE\\prog_korny\\BookStorage\\library\\src\\main\\java\\com\\example\\library\\repository\\BookRepository.java=1685177337454
-D\:\\saj\u00E1t\\Ny\u00EDregyh\u00E1zi\ egytem\\BSC\ NYE\\prog_korny\\BookStorage\\library\\src\\main\\resources\\application.properties=1684874232103
-D\:\\saj\u00E1t\\Ny\u00EDregyh\u00E1zi\ egytem\\BSC\ NYE\\prog_korny\\BookStorage\\library\\src\\main\\java\\com\\example\\library\\config\\EnableWebSecurity.java=1685131777476
